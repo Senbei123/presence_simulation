@@ -79,6 +79,10 @@ The service `presence_simulation.stop` will stop the simulation and set the `swi
 ### Toggle the simulation
 The service `presence_simulation.toggle` will start or stop the simulation, depending on the current state of the `switch.presence_simulation` entity.
 
+# Tutorial
+Tristan's Smartes Heim made a german tutorial how to use it as well: 
+https://youtu.be/5vCp3iKZb4Q
+
 # Buy me a coffee
 Liked some of my work? Buy me a coffee (or more likely a beer)
 
